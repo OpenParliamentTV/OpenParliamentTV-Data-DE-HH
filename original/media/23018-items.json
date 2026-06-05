@@ -1,0 +1,1160 @@
+{
+  "session_id": "23018",
+  "wp": 23,
+  "sitzung": 18,
+  "date": "2026-02-11",
+  "session_uuid": "c528c03e-0182-4467-825c-cab6adef066f",
+  "video_page_url": "https://mediathek.buergerschaft-hh.de/sitzung/23/18/",
+  "items": [
+    {
+      "index": 0,
+      "sid": "94773ec3-5299-4522-b111-ce8a6010e35a",
+      "top_number": null,
+      "title": "Gedenkworte zum Tod von Fatemeh Z.",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/644000/clipTo/944000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/640000/clipTo/940000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "f53d6904-2ad5-4a07-84e0-b2dfc2685e92",
+          "session_item_id": "94773ec3-5299-4522-b111-ce8a6010e35a",
+          "start_offset": 0.0,
+          "duration": 300.0,
+          "name_raw": "Präsidentin Carola Veit",
+          "function": "SPD",
+          "download_start": 1770813410,
+          "download_stop": 1770813710
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "sid": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+      "top_number": null,
+      "title": "AKTUELLE STUNDE Schreckliche Gewaltspirale an Hamburger Bahnhöfen die tödlichen Folgen verfehlter Migrationspolitik angemeldet von der AfD Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/962000/clipTo/6507000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/958000/clipTo/6503000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "f2528c16-3c55-4846-bbd7-e769359f8c65",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 71.0,
+          "duration": 315.0,
+          "name_raw": "Dirk Nockemann",
+          "function": "AfD",
+          "download_start": 1770813799,
+          "download_stop": 1770814114
+        },
+        {
+          "speech_pk": "909973ef-ed7a-43c8-8591-d09981378081",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 398.0,
+          "duration": 346.0,
+          "name_raw": "Dirk Kienscherf",
+          "function": "SPD",
+          "download_start": 1770814126,
+          "download_stop": 1770814472
+        },
+        {
+          "speech_pk": "87d155f8-a32a-4881-b071-e03f4a982f88",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 760.0,
+          "duration": 339.0,
+          "name_raw": "Dennis Thering",
+          "function": "CDU",
+          "download_start": 1770814488,
+          "download_stop": 1770814827
+        },
+        {
+          "speech_pk": "7e8ad2b1-ebc1-4eda-8547-7c60fcc381be",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 1120.0,
+          "duration": 327.0,
+          "name_raw": "Sina Imhof",
+          "function": "GRÜNE",
+          "download_start": 1770814848,
+          "download_stop": 1770815175
+        },
+        {
+          "speech_pk": "8540192d-9ed6-489e-8c5c-3ccd090d17e1",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 1470.0,
+          "duration": 265.0,
+          "name_raw": "Hila Latifi",
+          "function": "Die Linke",
+          "download_start": 1770815198,
+          "download_stop": 1770815463
+        },
+        {
+          "speech_pk": "856569e4-55ff-4b13-a0ea-9bbc3b8ba664",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 1754.0,
+          "duration": 123.0,
+          "name_raw": "Robert Risch",
+          "function": "Fraktionslos",
+          "download_start": 1770815482,
+          "download_stop": 1770815605
+        },
+        {
+          "speech_pk": "af3bbcad-8617-492d-bda8-9a30a7adda12",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 1892.0,
+          "duration": 827.0,
+          "name_raw": "Andy Grote",
+          "function": "Senator",
+          "download_start": 1770815620,
+          "download_stop": 1770816447
+        },
+        {
+          "speech_pk": "c23f71e9-9370-42fd-8e23-0ea9502c16b5",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 2735.0,
+          "duration": 194.0,
+          "name_raw": "Krzysztof Walczak",
+          "function": "AfD",
+          "download_start": 1770816463,
+          "download_stop": 1770816657
+        },
+        {
+          "speech_pk": "c2c0683b-a7c9-48ad-b9fd-e94054d47e19",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 2946.0,
+          "duration": 212.0,
+          "name_raw": "Annika Urbanski",
+          "function": "SPD",
+          "download_start": 1770816674,
+          "download_stop": 1770816886
+        },
+        {
+          "speech_pk": "4851bc96-e8da-4261-94ed-21c1314177ff",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 3177.0,
+          "duration": 222.0,
+          "name_raw": "Dennis Gladiator",
+          "function": "CDU",
+          "download_start": 1770816905,
+          "download_stop": 1770817127
+        },
+        {
+          "speech_pk": "584a23c1-d376-47e0-9bb0-947e65701189",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 3417.0,
+          "duration": 185.0,
+          "name_raw": "Parica Partoshoar",
+          "function": "GRÜNE",
+          "download_start": 1770817145,
+          "download_stop": 1770817330
+        },
+        {
+          "speech_pk": "8fd7433c-0c1d-4dcb-944b-5a2ad41e144e",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 3616.0,
+          "duration": 198.0,
+          "name_raw": "Carola Dr. Ensslen",
+          "function": "Die Linke",
+          "download_start": 1770817344,
+          "download_stop": 1770817542
+        },
+        {
+          "speech_pk": "cc9455d4-2610-4cd0-81e9-ce6151e048b4",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 3824.0,
+          "duration": 206.0,
+          "name_raw": "Marco Schulz",
+          "function": "AfD",
+          "download_start": 1770817552,
+          "download_stop": 1770817758
+        },
+        {
+          "speech_pk": "ddd08d5a-9c47-4634-b197-d5d920d06e4c",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 4039.0,
+          "duration": 125.0,
+          "name_raw": "Danial Ilkhanipour",
+          "function": "SPD",
+          "download_start": 1770817767,
+          "download_stop": 1770817892
+        },
+        {
+          "speech_pk": "fba8820e-4d0d-4e39-bc68-3e9988c6d6a1",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 4181.0,
+          "duration": 206.0,
+          "name_raw": "Antje Müller-Möller",
+          "function": "CDU",
+          "download_start": 1770817909,
+          "download_stop": 1770818115
+        },
+        {
+          "speech_pk": "67791f9a-5049-4664-b92d-3a8448f35c26",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 4410.0,
+          "duration": 213.0,
+          "name_raw": "Michael Gwosdz",
+          "function": "GRÜNE",
+          "download_start": 1770818138,
+          "download_stop": 1770818351
+        },
+        {
+          "speech_pk": "e10fc086-55f7-4f53-bc0f-532fdf6de33e",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 4639.0,
+          "duration": 219.0,
+          "name_raw": "Deniz Celik",
+          "function": "Die Linke",
+          "download_start": 1770818367,
+          "download_stop": 1770818586
+        },
+        {
+          "speech_pk": "2c7bcdeb-4c2e-4230-8ab1-9c98b07d7cd4",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 4872.0,
+          "duration": 205.0,
+          "name_raw": "Dirk Nockemann",
+          "function": "AfD",
+          "download_start": 1770818600,
+          "download_stop": 1770818805
+        },
+        {
+          "speech_pk": "47437109-686b-45b7-a057-074cc6c07cf3",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 5091.0,
+          "duration": 207.0,
+          "name_raw": "Irene Appiah",
+          "function": "SPD",
+          "download_start": 1770818819,
+          "download_stop": 1770819026
+        },
+        {
+          "speech_pk": "c15d0aa6-d9f5-4d16-94e1-c6d52fdc2996",
+          "session_item_id": "bba988fc-9e83-4a27-a1eb-0bc0d144c023",
+          "start_offset": 5319.0,
+          "duration": 220.0,
+          "name_raw": "Richard Seelmaecker",
+          "function": "CDU",
+          "download_start": 1770819047,
+          "download_stop": 1770819267
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "sid": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+      "top_number": "38",
+      "title": "Junge Familien unterstützen Elterngeld schneller auszahlen Antrag der SPD und GRÜNEN Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/6644000/clipTo/8147000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/6640000/clipTo/8143000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "d43ac9e5-464d-452c-87aa-7bf44e591093",
+          "session_item_id": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+          "start_offset": 30.0,
+          "duration": 282.0,
+          "name_raw": "Anja Quast",
+          "function": "SPD",
+          "download_start": 1770819440,
+          "download_stop": 1770819722
+        },
+        {
+          "speech_pk": "8e2c1913-67a5-4859-8c8c-fb23d99cb5f6",
+          "session_item_id": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+          "start_offset": 324.0,
+          "duration": 282.0,
+          "name_raw": "Silke Seif",
+          "function": "CDU",
+          "download_start": 1770819734,
+          "download_stop": 1770820016
+        },
+        {
+          "speech_pk": "57bb3856-609c-49e6-b7c2-2fc93355ca38",
+          "session_item_id": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+          "start_offset": 620.0,
+          "duration": 312.0,
+          "name_raw": "Lisa Kern",
+          "function": "GRÜNE",
+          "download_start": 1770820030,
+          "download_stop": 1770820342
+        },
+        {
+          "speech_pk": "cc4b8329-5014-4086-88ad-2861f44ee3b8",
+          "session_item_id": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+          "start_offset": 939.0,
+          "duration": 290.0,
+          "name_raw": "Jan Libbertz",
+          "function": "Die Linke",
+          "download_start": 1770820349,
+          "download_stop": 1770820639
+        },
+        {
+          "speech_pk": "37e48874-0742-4e02-829a-c9a8c4985e02",
+          "session_item_id": "2dc869f9-b8cc-434d-8d7c-b95877f352bc",
+          "start_offset": 1260.0,
+          "duration": 196.0,
+          "name_raw": "Eugen Seiler",
+          "function": "AfD",
+          "download_start": 1770820670,
+          "download_stop": 1770820866
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "sid": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+      "top_number": "41",
+      "title": "Vorziehung des Vorstellungsverfahrens Viereinhalbjähriger sowie Überarbeitung des Verfahrens jetzt anstoßen! Antrag der CDU Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/8147000/clipTo/9656000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/8143000/clipTo/9652000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "bab7f682-b330-4583-a50c-f3be937ef5ba",
+          "session_item_id": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+          "start_offset": 19.0,
+          "duration": 340.792,
+          "name_raw": "Birgit Stöver",
+          "function": "CDU",
+          "download_start": 1770820933,
+          "download_stop": 1770821273
+        },
+        {
+          "speech_pk": "6c616a12-2f3d-4906-b5cc-6167fa8e829a",
+          "session_item_id": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+          "start_offset": 374.0,
+          "duration": 298.0,
+          "name_raw": "Julia Barth-Dworzynski",
+          "function": "SPD",
+          "download_start": 1770821287,
+          "download_stop": 1770821585
+        },
+        {
+          "speech_pk": "ac2b13ad-b9ea-4aa0-b0ce-7e5385797e6c",
+          "session_item_id": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+          "start_offset": 689.0,
+          "duration": 343.0,
+          "name_raw": "Lisa Kern",
+          "function": "GRÜNE",
+          "download_start": 1770821602,
+          "download_stop": 1770821945
+        },
+        {
+          "speech_pk": "af7ef15f-6aac-48b2-92a2-b8f366a3104a",
+          "session_item_id": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+          "start_offset": 1043.0,
+          "duration": 233.0,
+          "name_raw": "Thomas Meyer",
+          "function": "Die Linke",
+          "download_start": 1770821956,
+          "download_stop": 1770822189
+        },
+        {
+          "speech_pk": "4330cf3b-267f-4cdb-908c-3c6b7bbcee4f",
+          "session_item_id": "b46c9031-4381-498b-a67f-3a63fe995fd7",
+          "start_offset": 1291.0,
+          "duration": 180.0,
+          "name_raw": "Benjamin Mennerich",
+          "function": "AfD",
+          "download_start": 1770822204,
+          "download_stop": 1770822384
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "sid": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+      "top_number": "37",
+      "title": "Verhältnisprävention umsetzen Gesunde Ernährung durch eine Abgabe auf Zucker fördern Antrag der SPD und GRÜNEN Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/9656000/clipTo/11504000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/9652000/clipTo/11500000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "64bb66b2-f0b4-49cf-b12d-9335995d5cc0",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 67.0,
+          "duration": 308.636,
+          "name_raw": "Linus Görg",
+          "function": "GRÜNE",
+          "download_start": 1770822490,
+          "download_stop": 1770822798
+        },
+        {
+          "speech_pk": "a9d2b9c2-d20c-4d3d-8f45-c0e9aa31a1fd",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 390.0,
+          "duration": 322.0,
+          "name_raw": "Claudia Loss",
+          "function": "SPD",
+          "download_start": 1770822812,
+          "download_stop": 1770823134
+        },
+        {
+          "speech_pk": "f16c3f82-2184-4390-ac86-6da57905a321",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 724.0,
+          "duration": 284.0,
+          "name_raw": "Christin Christ",
+          "function": "CDU",
+          "download_start": 1770823146,
+          "download_stop": 1770823430
+        },
+        {
+          "speech_pk": "c1bbe235-4a2d-41f2-abda-40a8a82c0ac9",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 1024.0,
+          "duration": 261.0,
+          "name_raw": "Deniz Celik",
+          "function": "Die Linke",
+          "download_start": 1770823446,
+          "download_stop": 1770823707
+        },
+        {
+          "speech_pk": "7145b4df-5bc1-4e51-99fc-6e7aa6dfa73a",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 1293.0,
+          "duration": 234.0,
+          "name_raw": "Thomas Reich",
+          "function": "AfD",
+          "download_start": 1770823715,
+          "download_stop": 1770823949
+        },
+        {
+          "speech_pk": "1f386482-5760-463e-b0a7-67056b29513f",
+          "session_item_id": "8a9c50fc-c042-4ddb-a479-1a6c0d208613",
+          "start_offset": 1545.0,
+          "duration": 139.0,
+          "name_raw": "Antje Hebel",
+          "function": "AfD",
+          "download_start": 1770823967,
+          "download_stop": 1770824106
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "sid": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+      "top_number": "34",
+      "title": "Haushaltsplan 2025/2026 Nachbewilligung gemäß § 35 LHO Einzelpläne 2 und 9.2 Modernisierung der Arbeitsgerichte Senatsantrag",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/11504000/clipTo/12566000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/11500000/clipTo/12562000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "910ca4ba-23f0-4db1-b5d3-e20582b9ca16",
+          "session_item_id": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+          "start_offset": 37.0,
+          "duration": 229.0,
+          "name_raw": "Sarah Timmann",
+          "function": "SPD",
+          "download_start": 1770824307,
+          "download_stop": 1770824536
+        },
+        {
+          "speech_pk": "a5a3bd9c-c21d-4ef7-a08d-db65a28e6de4",
+          "session_item_id": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+          "start_offset": 276.0,
+          "duration": 185.0,
+          "name_raw": "Richard Seelmaecker",
+          "function": "CDU",
+          "download_start": 1770824546,
+          "download_stop": 1770824731
+        },
+        {
+          "speech_pk": "6b53e117-aad5-416e-85bd-3eb082da3b7f",
+          "session_item_id": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+          "start_offset": 469.0,
+          "duration": 201.832,
+          "name_raw": "Lena Zagst",
+          "function": "GRÜNE",
+          "download_start": 1770824740,
+          "download_stop": 1770824941
+        },
+        {
+          "speech_pk": "af080ad4-8737-419a-a314-dcfdc76fcdde",
+          "session_item_id": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+          "start_offset": 682.0,
+          "duration": 161.0,
+          "name_raw": "David Stoop",
+          "function": "Die Linke",
+          "download_start": 1770824952,
+          "download_stop": 1770825113
+        },
+        {
+          "speech_pk": "2cdcbdee-efb4-4229-a6fe-a2d62b72d9b2",
+          "session_item_id": "981d7306-8724-40a1-bbf3-1930f8ffb6ca",
+          "start_offset": 851.0,
+          "duration": 159.0,
+          "name_raw": "Dirk Nockemann",
+          "function": "AfD",
+          "download_start": 1770825121,
+          "download_stop": 1770825280
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "sid": "117f75ef-06f6-45e5-918c-25eef874929d",
+      "top_number": "45",
+      "title": "Kommunikationschaos bei der Freihafenelbbrücke beenden Wirtschaft und Hafen brauchen Klarheit statt Salamitaktik Antrag der CDU Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/12566000/clipTo/13255000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/12562000/clipTo/13251000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "cc440e22-728f-4572-9395-e0b86611946f",
+          "session_item_id": "117f75ef-06f6-45e5-918c-25eef874929d",
+          "start_offset": 35.0,
+          "duration": 135.0,
+          "name_raw": "Dr. Antonia-Katharina Goldner",
+          "function": "CDU",
+          "download_start": 1770825367,
+          "download_stop": 1770825502
+        },
+        {
+          "speech_pk": "364e265d-f773-478a-ad9f-65c9a568f8ad",
+          "session_item_id": "117f75ef-06f6-45e5-918c-25eef874929d",
+          "start_offset": 181.0,
+          "duration": 126.0,
+          "name_raw": "Clarissa Herbst",
+          "function": "SPD",
+          "download_start": 1770825513,
+          "download_stop": 1770825639
+        },
+        {
+          "speech_pk": "df441dab-7356-4f7a-b0e4-f54fbfd5ed0d",
+          "session_item_id": "117f75ef-06f6-45e5-918c-25eef874929d",
+          "start_offset": 316.0,
+          "duration": 47.0,
+          "name_raw": "Rosa Domm",
+          "function": "GRÜNE",
+          "download_start": 1770825648,
+          "download_stop": 1770825695
+        },
+        {
+          "speech_pk": "df20944f-9921-4e90-9dc8-0c11ca6a8937",
+          "session_item_id": "117f75ef-06f6-45e5-918c-25eef874929d",
+          "start_offset": 372.0,
+          "duration": 135.0,
+          "name_raw": "Kay Jäger",
+          "function": "Die Linke",
+          "download_start": 1770825704,
+          "download_stop": 1770825839
+        },
+        {
+          "speech_pk": "262c09ba-e8dc-4334-bad5-3e7de0231157",
+          "session_item_id": "117f75ef-06f6-45e5-918c-25eef874929d",
+          "start_offset": 521.0,
+          "duration": 126.0,
+          "name_raw": "Marco Schulz",
+          "function": "AfD",
+          "download_start": 1770825853,
+          "download_stop": 1770825979
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "sid": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+      "top_number": "50",
+      "title": "Hamburgs Bäckereien stärken Ladenöffnungszeiten und Arbeitszeitrecht modernisieren! Antrag der CDU Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/13256000/clipTo/14051000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/13252000/clipTo/14047000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "fa6a7c3b-bf92-4ecd-a05f-63c47ef00243",
+          "session_item_id": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+          "start_offset": 22.0,
+          "duration": 151.0,
+          "name_raw": "David Erkalp",
+          "function": "CDU",
+          "download_start": 1770826044,
+          "download_stop": 1770826195
+        },
+        {
+          "speech_pk": "43b40e49-8404-462f-a7ac-67294e495398",
+          "session_item_id": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+          "start_offset": 188.0,
+          "duration": 152.0,
+          "name_raw": "Jan Koltze",
+          "function": "SPD",
+          "download_start": 1770826210,
+          "download_stop": 1770826362
+        },
+        {
+          "speech_pk": "7e22eca8-6160-4f9a-bb3a-433633e9e7b5",
+          "session_item_id": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+          "start_offset": 355.0,
+          "duration": 130.0,
+          "name_raw": "Eva Botzenhart",
+          "function": "GRÜNE",
+          "download_start": 1770826377,
+          "download_stop": 1770826507
+        },
+        {
+          "speech_pk": "1d62abcd-9127-4023-88e4-45fe862b5fe5",
+          "session_item_id": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+          "start_offset": 494.0,
+          "duration": 112.0,
+          "name_raw": "Xenija Melnik",
+          "function": "Die Linke",
+          "download_start": 1770826516,
+          "download_stop": 1770826628
+        },
+        {
+          "speech_pk": "2cddfca7-1a71-44c5-a242-efc9aa037220",
+          "session_item_id": "f7aaf5bd-ae9d-4fe3-805a-38da1fcdca27",
+          "start_offset": 613.0,
+          "duration": 140.0,
+          "name_raw": "Marco Schulz",
+          "function": "AfD",
+          "download_start": 1770826635,
+          "download_stop": 1770826775
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "sid": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+      "top_number": "16",
+      "title": "Tätigkeitsbericht der Senatskoordinatorin für die Gleichstellung von Menschen mit Behinderungen 2023 2024 Senatsmitteilung",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/14052000/clipTo/15459000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/14048000/clipTo/15455000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "1a5fe2be-eafa-47f2-8bbc-baface06333a",
+          "session_item_id": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+          "start_offset": 36.0,
+          "duration": 301.0,
+          "name_raw": "Kathrin Warnecke",
+          "function": "GRÜNE",
+          "download_start": 1770826854,
+          "download_stop": 1770827155
+        },
+        {
+          "speech_pk": "e3491392-62be-49d7-bbbf-b7cf537edcdd",
+          "session_item_id": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+          "start_offset": 353.0,
+          "duration": 306.0,
+          "name_raw": "Regina-Elisabeth Jäck",
+          "function": "SPD",
+          "download_start": 1770827171,
+          "download_stop": 1770827477
+        },
+        {
+          "speech_pk": "81ffeda4-da11-4fae-9267-bee9406ae7b4",
+          "session_item_id": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+          "start_offset": 670.0,
+          "duration": 351.0,
+          "name_raw": "Antje Müller-Möller",
+          "function": "CDU",
+          "download_start": 1770827488,
+          "download_stop": 1770827839
+        },
+        {
+          "speech_pk": "01eaf9cb-af66-4519-9824-a7d5d79c9704",
+          "session_item_id": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+          "start_offset": 1030.0,
+          "duration": 179.0,
+          "name_raw": "Thomas Meyer",
+          "function": "Die Linke",
+          "download_start": 1770827848,
+          "download_stop": 1770828027
+        },
+        {
+          "speech_pk": "dfda2d8a-5eac-4ddd-9331-cc0986c5d3f6",
+          "session_item_id": "8065b7d8-dbc4-489b-a30b-d35b756cdfe9",
+          "start_offset": 1223.0,
+          "duration": 158.0,
+          "name_raw": "Antje Hebel",
+          "function": "AfD",
+          "download_start": 1770828041,
+          "download_stop": 1770828199
+        }
+      ]
+    },
+    {
+      "index": 9,
+      "sid": "e324be65-bc41-4b78-9665-f50843350a3b",
+      "top_number": "54",
+      "title": "Inklusions Kita Elfenwiese retten und als \"Kita an der Schule\" weiterführen Antrag der Fraktion Die Linke",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/15460000/clipTo/16451000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/15456000/clipTo/16447000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "38b38f8c-30d1-4602-b717-fe72fe58b026",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 44.0,
+          "duration": 126.0,
+          "name_raw": "Thomas Meyer",
+          "function": "Die Linke",
+          "download_start": 1770828270,
+          "download_stop": 1770828396
+        },
+        {
+          "speech_pk": "51ffe66a-3828-4abc-ac57-1bdd8424996a",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 182.0,
+          "duration": 121.0,
+          "name_raw": "Cem Berk",
+          "function": "SPD",
+          "download_start": 1770828408,
+          "download_stop": 1770828529
+        },
+        {
+          "speech_pk": "16ab3ce5-24af-4c50-8bda-eabad1f3d917",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 316.0,
+          "duration": 127.0,
+          "name_raw": "Birgit Stöver",
+          "function": "CDU",
+          "download_start": 1770828542,
+          "download_stop": 1770828669
+        },
+        {
+          "speech_pk": "cf08f66b-55e1-4f2f-b6bd-56cf9c71f576",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 455.0,
+          "duration": 111.0,
+          "name_raw": "Miriam Block",
+          "function": "GRÜNE",
+          "download_start": 1770828681,
+          "download_stop": 1770828792
+        },
+        {
+          "speech_pk": "fad3bc6e-6f87-4260-870a-9abfde26d5a4",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 576.0,
+          "duration": 119.0,
+          "name_raw": "Eugen Seiler",
+          "function": "AfD",
+          "download_start": 1770828802,
+          "download_stop": 1770828921
+        },
+        {
+          "speech_pk": "9b531043-7255-4e08-adf0-cc0e6d3d987e",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 704.0,
+          "duration": 61.0,
+          "name_raw": "Thomas Meyer",
+          "function": "Die Linke",
+          "download_start": 1770828930,
+          "download_stop": 1770828991
+        },
+        {
+          "speech_pk": "0ae5e0d0-351c-4e74-a7e7-fece07c22ed2",
+          "session_item_id": "e324be65-bc41-4b78-9665-f50843350a3b",
+          "start_offset": 776.0,
+          "duration": 119.0,
+          "name_raw": "Birgit Stöver",
+          "function": "CDU",
+          "download_start": 1770829002,
+          "download_stop": 1770829121
+        }
+      ]
+    },
+    {
+      "index": 10,
+      "sid": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+      "top_number": "51",
+      "title": "Mietwucher: Ausreichend Personal für Bekämpfung notwendig! Antrag der Fraktion Die Linke",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/16451000/clipTo/18061000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/16447000/clipTo/18057000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "77563008-79b4-407e-9a6a-b2c3d062d44e",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 25.0,
+          "duration": 132.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770829242,
+          "download_stop": 1770829374
+        },
+        {
+          "speech_pk": "3a8a6ec2-dba4-43ae-8a92-3db6e0e826a2",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 170.0,
+          "duration": 164.0,
+          "name_raw": "Michael Weinreich",
+          "function": "SPD",
+          "download_start": 1770829387,
+          "download_stop": 1770829551
+        },
+        {
+          "speech_pk": "a33da81d-d727-406f-91d1-51b9e0caf879",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 338.0,
+          "duration": 127.0,
+          "name_raw": "Dr. Anke Frieling",
+          "function": "CDU",
+          "download_start": 1770829555,
+          "download_stop": 1770829682
+        },
+        {
+          "speech_pk": "029b95ce-48a5-45c0-94d4-1f476a0d7528",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 484.0,
+          "duration": 141.0,
+          "name_raw": "Leon Dewan Alam",
+          "function": "GRÜNE",
+          "download_start": 1770829701,
+          "download_stop": 1770829842
+        },
+        {
+          "speech_pk": "08817ed6-2612-4ae2-bb47-31a2c318f3a0",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 634.0,
+          "duration": 125.0,
+          "name_raw": "Dirk Nockemann",
+          "function": "AfD",
+          "download_start": 1770829851,
+          "download_stop": 1770829976
+        },
+        {
+          "speech_pk": "8b785316-1169-4b4a-947f-5f7230893f1b",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 770.0,
+          "duration": 127.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770829987,
+          "download_stop": 1770830114
+        },
+        {
+          "speech_pk": "c17fb0cd-b3a6-4065-8478-aefa0f58e010",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 906.0,
+          "duration": 36.0,
+          "name_raw": "Dr. Anke Frieling",
+          "function": "CDU",
+          "download_start": 1770830123,
+          "download_stop": 1770830159
+        },
+        {
+          "speech_pk": "5b5d088c-c042-4f41-946d-8abc62668b6c",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 948.0,
+          "duration": 110.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770830165,
+          "download_stop": 1770830275
+        },
+        {
+          "speech_pk": "dfe54d2c-6e42-41e3-a7cb-5fde3f01b202",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1068.0,
+          "duration": 74.0,
+          "name_raw": "Martina Koeppen",
+          "function": "SPD",
+          "download_start": 1770830285,
+          "download_stop": 1770830359
+        },
+        {
+          "speech_pk": "c9a6be3a-554f-4bd7-bdc3-2ad7dcf5ff84",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1148.0,
+          "duration": 87.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770830365,
+          "download_stop": 1770830452
+        },
+        {
+          "speech_pk": "02970715-5c0d-4d50-b1e7-475ac1f8e5cb",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1242.0,
+          "duration": 44.0,
+          "name_raw": "Martina Koeppen",
+          "function": "SPD",
+          "download_start": 1770830459,
+          "download_stop": 1770830503
+        },
+        {
+          "speech_pk": "4f83a2cb-7acb-4b0e-aaa4-a0aad22027a9",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1289.0,
+          "duration": 62.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770830506,
+          "download_stop": 1770830568
+        },
+        {
+          "speech_pk": "7887f4a6-eb64-495f-aaa2-1018206be345",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1363.0,
+          "duration": 153.0,
+          "name_raw": "Michael Weinreich",
+          "function": "SPD",
+          "download_start": 1770830580,
+          "download_stop": 1770830733
+        },
+        {
+          "speech_pk": "a0fb8d0b-71ab-4898-a059-7a0a09172137",
+          "session_item_id": "0324de6e-7e0d-43d3-8a02-72916e4220fe",
+          "start_offset": 1524.0,
+          "duration": 59.0,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770830741,
+          "download_stop": 1770830800
+        }
+      ]
+    },
+    {
+      "index": 11,
+      "sid": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+      "top_number": "39",
+      "title": "Pickleball Einen Trendsport in Hamburg voranbringen Antrag der SPD und GRÜNEN Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/18071000/clipTo/18876000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/18067000/clipTo/18872000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "d6d61b90-1606-4962-b3a9-c6e47e89406e",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 31.0,
+          "duration": 125.0,
+          "name_raw": "Juliane Timmermann",
+          "function": "SPD",
+          "download_start": 1770830868,
+          "download_stop": 1770830993
+        },
+        {
+          "speech_pk": "97e25ac1-1897-4c23-9f0b-97a40be3c161",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 170.0,
+          "duration": 134.0,
+          "name_raw": "Ralf Niedmers",
+          "function": "CDU",
+          "download_start": 1770831007,
+          "download_stop": 1770831141
+        },
+        {
+          "speech_pk": "8d3d616e-689a-4ee9-9f3f-4c761ae1b886",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 313.0,
+          "duration": 131.0,
+          "name_raw": "Alske Freter",
+          "function": "GRÜNE",
+          "download_start": 1770831150,
+          "download_stop": 1770831281
+        },
+        {
+          "speech_pk": "79857c22-78a4-4390-b014-9bb6e559c13f",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 455.0,
+          "duration": 128.0,
+          "name_raw": "Martin Wolter",
+          "function": "Die Linke",
+          "download_start": 1770831292,
+          "download_stop": 1770831420
+        },
+        {
+          "speech_pk": "43f4c14f-8472-414f-aeb4-cb41845ffafb",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 592.0,
+          "duration": 18.0,
+          "name_raw": "Antje Hebel",
+          "function": "AfD",
+          "download_start": 1770831429,
+          "download_stop": 1770831447
+        },
+        {
+          "speech_pk": "8ee47a26-8bf4-4afb-8c90-e8393b614180",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 619.0,
+          "duration": 90.0,
+          "name_raw": "Juliane Timmermann",
+          "function": "SPD",
+          "download_start": 1770831456,
+          "download_stop": 1770831546
+        },
+        {
+          "speech_pk": "59c89fc9-2e02-407a-b995-332e34ef0021",
+          "session_item_id": "26a76d02-12bc-4669-8d23-fce09aa59f96",
+          "start_offset": 714.0,
+          "duration": 51.0,
+          "name_raw": "Ralf Niedmers",
+          "function": "CDU",
+          "download_start": 1770831551,
+          "download_stop": 1770831602
+        }
+      ]
+    },
+    {
+      "index": 12,
+      "sid": "f80862b6-7aad-453b-99fa-149eb4174515",
+      "top_number": "55",
+      "title": "\"Sommerferien ohne Angst\" Etablierung einer direkten Schüler Aufklärungskampagne gegen Zwangsverheiratung und Heiratsverschleppung Antrag der AfD Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/18876000/clipTo/19746000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/18872000/clipTo/19742000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "e6c61508-757e-4f6e-9a33-f28996c3f65c",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 36.0,
+          "duration": 119.0,
+          "name_raw": "Eugen Seiler",
+          "function": "AfD",
+          "download_start": 1770831678,
+          "download_stop": 1770831797
+        },
+        {
+          "speech_pk": "661be436-65ca-4350-a7bc-c294bfde2476",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 165.0,
+          "duration": 119.0,
+          "name_raw": "Claudia Loss",
+          "function": "SPD",
+          "download_start": 1770831807,
+          "download_stop": 1770831926
+        },
+        {
+          "speech_pk": "48295fc0-811c-4c5e-a654-37e638ef2e91",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 295.0,
+          "duration": 137.0,
+          "name_raw": "Antje Müller-Möller",
+          "function": "CDU",
+          "download_start": 1770831937,
+          "download_stop": 1770832074
+        },
+        {
+          "speech_pk": "f7d71a9a-7382-47e4-acc2-8b08358a1b5e",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 448.0,
+          "duration": 107.0,
+          "name_raw": "Hila Latifi",
+          "function": "Die Linke",
+          "download_start": 1770832090,
+          "download_stop": 1770832197
+        },
+        {
+          "speech_pk": "5d14becd-2f21-44c5-92a8-c1ff8fc38c18",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 574.0,
+          "duration": 93.0,
+          "name_raw": "Benjamin Mennerich",
+          "function": "AfD",
+          "download_start": 1770832216,
+          "download_stop": 1770832309
+        },
+        {
+          "speech_pk": "52ee043c-f939-4b28-a52a-efd53f5ce018",
+          "session_item_id": "f80862b6-7aad-453b-99fa-149eb4174515",
+          "start_offset": 682.0,
+          "duration": 151.0,
+          "name_raw": "Michael Gwosdz",
+          "function": "GRÜNE",
+          "download_start": 1770832324,
+          "download_stop": 1770832475
+        }
+      ]
+    },
+    {
+      "index": 13,
+      "sid": "9496f99f-4515-4262-8752-4f21a641bab4",
+      "top_number": "56",
+      "title": "Wohnrecht der Bewohner am Nymphenweg 30 sichern Bestandsschutz wahren und planungsrechtliche Klarheit schaffen Antrag der AfD Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/19746000/clipTo/20292000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/19742000/clipTo/20288000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "5fffb5f2-c455-4686-acd2-146de895f783",
+          "session_item_id": "9496f99f-4515-4262-8752-4f21a641bab4",
+          "start_offset": 24.0,
+          "duration": 134.0,
+          "name_raw": "Thomas Reich",
+          "function": "AfD",
+          "download_start": 1770832536,
+          "download_stop": 1770832670
+        },
+        {
+          "speech_pk": "c264308c-0af9-43c5-a71a-eef35872e561",
+          "session_item_id": "9496f99f-4515-4262-8752-4f21a641bab4",
+          "start_offset": 197.0,
+          "duration": 162.0,
+          "name_raw": "Matthias Czech",
+          "function": "SPD",
+          "download_start": 1770832709,
+          "download_stop": 1770832871
+        },
+        {
+          "speech_pk": "b0b8b471-aa6c-406a-93a4-75caf5a15ad9",
+          "session_item_id": "9496f99f-4515-4262-8752-4f21a641bab4",
+          "start_offset": 371.0,
+          "duration": 162.0,
+          "name_raw": "Thomas Reich",
+          "function": "AfD",
+          "download_start": 1770832883,
+          "download_stop": 1770833045
+        }
+      ]
+    },
+    {
+      "index": 14,
+      "sid": "dd9527d2-80ee-4353-8018-377904e184ad",
+      "top_number": "46",
+      "title": "Wortmeldung gemäß §26 Absatz 6 der Geschäftsordnung Flugverkehrsstandort Hamburg wettbewerbsfähig halten der Senat muss ein aktive Standortpolitik betreiben Antrag der CDU Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/20534000/clipTo/20690000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/20530000/clipTo/20686000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "fbc6baaf-b39a-4b17-a5d0-72c8819d18b0",
+          "session_item_id": "dd9527d2-80ee-4353-8018-377904e184ad",
+          "start_offset": 9.0,
+          "duration": 125.0,
+          "name_raw": "Marco Schulz",
+          "function": "AfD",
+          "download_start": 1770833309,
+          "download_stop": 1770833434
+        }
+      ]
+    },
+    {
+      "index": 15,
+      "sid": "c9ad8a77-3a1c-4192-8278-6692031ab7de",
+      "top_number": "48",
+      "title": "Elbtower Aktenvorlage zu Kosten, Risiken, Entscheidungsgrund lagen, geprüften Alternativen und verfahrensrechtlichen Fragen Antrag der CDU Fraktion",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/20734000/clipTo/21088000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/20730000/clipTo/21084000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "db215a21-d9f2-4464-ae34-7f70ff576efd",
+          "session_item_id": "c9ad8a77-3a1c-4192-8278-6692031ab7de",
+          "start_offset": 25.0,
+          "duration": 134.0,
+          "name_raw": "Thilo Kleibauer",
+          "function": "CDU",
+          "download_start": 1770833525,
+          "download_stop": 1770833659
+        },
+        {
+          "speech_pk": "1ae831aa-457e-419d-8c5b-16ef53f63d9b",
+          "session_item_id": "c9ad8a77-3a1c-4192-8278-6692031ab7de",
+          "start_offset": 166.0,
+          "duration": 183.706,
+          "name_raw": "Heike Sudmann",
+          "function": "Die Linke",
+          "download_start": 1770833667,
+          "download_stop": 1770833850
+        }
+      ]
+    },
+    {
+      "index": 16,
+      "sid": "8d3d1a79-55a9-4fee-8aa0-54cc3d3841ee",
+      "top_number": "52",
+      "title": "Wortmeldung gemäß § 26 Abs. 6 GO: Angriffe auf die kurdische Selbstverwaltung in Nord und Ostsyrien Solidarität mit Rojava Antrag der Fraktion Die Linke",
+      "clean_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/21125000/clipTo/21328000/2026-02-11/clean_9d06d992-c263-47c5-939d-bba4da08da08/,2026-02-11_0446kbps_clean.mp4,2026-02-11_0846kbps_clean.mp4,2026-02-11_1296kbps_clean.mp4,2026-02-11_1896kbps_clean.mp4,lang/deu/2026-02-11_clean.vtt,.urlset/master.m3u8",
+      "sign_hls": "https://mediathek.buergerschaft-hh.de/hls/clipFrom/21121000/clipTo/21324000/2026-02-11/sign_95de7d99-d48a-42a2-982c-1fe37118dc0d/,2026-02-11_0446kbps_sign.mp4,2026-02-11_0846kbps_sign.mp4,2026-02-11_1296kbps_sign.mp4,2026-02-11_1896kbps_sign.mp4,lang/deu/2026-02-11_sign.vtt,.urlset/master.m3u8",
+      "speeches": [
+        {
+          "speech_pk": "a1d7fd93-baba-4e61-9982-52993cd76df2",
+          "session_item_id": "8d3d1a79-55a9-4fee-8aa0-54cc3d3841ee",
+          "start_offset": 11.0,
+          "duration": 122.0,
+          "name_raw": "David Stoop",
+          "function": "Die Linke",
+          "download_start": 1770833902,
+          "download_stop": 1770834024
+        }
+      ]
+    }
+  ]
+}
