@@ -1,20 +1,16 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-HH",
-    "electoralPeriod": {
-      "number": 23
-    },
     "session": "23018",
     "dateStart": "2026-02-11T12:36:50Z",
     "dateEnd": "2026-02-11T18:20:24Z",
-    "sourceURI": "https://mediathek.buergerschaft-hh.de/sitzung/23/18/",
+    "lastProcessing": "merge",
+    "lastUpdate": "2026-06-15T12:36:23+00:00",
     "processing": {
-      "parse_media": "2026-06-01T15:50:17",
-      "merge": "2026-06-01T15:50:17",
-      "nel": "2026-06-01T15:50:17"
+      "parse_media": "2026-06-15T14:36:23",
+      "merge": "2026-06-15T12:36:23+00:00"
     },
-    "lastUpdate": "2026-06-01T15:50:17"
+    "sourceURI": "https://mediathek.buergerschaft-hh.de/sitzung/23/18/"
   },
   "data": [
     {
@@ -367,8 +363,7 @@
           "firstname": "Hila",
           "lastname": "Latifi",
           "faction": {
-            "label": "Die Linke",
-            "wid": "Q49764"
+            "label": "Die Linke"
           }
         }
       ],
@@ -429,8 +424,7 @@
           "firstname": "Robert",
           "lastname": "Risch",
           "faction": {
-            "label": "Fraktionslos",
-            "wid": ""
+            "label": "Fraktionslos"
           },
           "wid": "Q133571108",
           "wtype": "PERSON"
@@ -1763,8 +1757,7 @@
           "firstname": "Julia",
           "lastname": "Barth-Dworzynski",
           "faction": {
-            "label": "SPD",
-            "wid": "Q49768"
+            "label": "SPD"
           }
         }
       ],
@@ -2013,8 +2006,7 @@
           "firstname": "Linus",
           "lastname": "Görg",
           "faction": {
-            "label": "GRÜNE",
-            "wid": "Q49766"
+            "label": "GRÜNE"
           }
         }
       ],
@@ -2709,8 +2701,7 @@
           "firstname": "Antonia-Katharina",
           "lastname": "Goldner",
           "faction": {
-            "label": "CDU",
-            "wid": "Q49762"
+            "label": "CDU"
           }
         }
       ],
@@ -3148,8 +3139,7 @@
           "firstname": "Eva",
           "lastname": "Botzenhart",
           "faction": {
-            "label": "GRÜNE",
-            "wid": "Q49766"
+            "label": "GRÜNE"
           }
         }
       ],
@@ -4280,8 +4270,7 @@
           "firstname": "Leon Dewan",
           "lastname": "Alam",
           "faction": {
-            "label": "GRÜNE",
-            "wid": "Q49766"
+            "label": "GRÜNE"
           }
         }
       ],
@@ -5601,8 +5590,7 @@
           "firstname": "Hila",
           "lastname": "Latifi",
           "faction": {
-            "label": "Die Linke",
-            "wid": "Q49764"
+            "label": "Die Linke"
           }
         }
       ],

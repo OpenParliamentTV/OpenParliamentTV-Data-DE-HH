@@ -1,20 +1,16 @@
 {
   "meta": {
     "schemaVersion": "1.0",
-    "parliament": "DE-HH",
-    "electoralPeriod": {
-      "number": 23
-    },
     "session": "23017",
     "dateStart": "2026-01-28T12:39:15Z",
     "dateEnd": "2026-01-28T18:09:35Z",
-    "sourceURI": "https://mediathek.buergerschaft-hh.de/sitzung/23/17/",
+    "lastProcessing": "merge",
+    "lastUpdate": "2026-06-15T12:36:23+00:00",
     "processing": {
-      "parse_media": "2026-06-02T11:16:42",
-      "merge": "2026-06-02T11:16:42",
-      "nel": "2026-06-02T11:16:42"
+      "parse_media": "2026-06-15T14:36:23",
+      "merge": "2026-06-15T12:36:23+00:00"
     },
-    "lastUpdate": "2026-06-02T11:16:42"
+    "sourceURI": "https://mediathek.buergerschaft-hh.de/sitzung/23/17/"
   },
   "data": [
     {
@@ -430,8 +426,7 @@
           "firstname": "Hila",
           "lastname": "Latifi",
           "faction": {
-            "label": "Die Linke",
-            "wid": "Q49764"
+            "label": "Die Linke"
           }
         }
       ],
@@ -940,8 +935,7 @@
           "firstname": "Phyliss",
           "lastname": "Demirel",
           "faction": {
-            "label": "GRÜNE",
-            "wid": "Q49766"
+            "label": "GRÜNE"
           }
         }
       ],
@@ -2960,8 +2954,7 @@
           "firstname": "Hila",
           "lastname": "Latifi",
           "faction": {
-            "label": "Die Linke",
-            "wid": "Q49764"
+            "label": "Die Linke"
           }
         }
       ],
@@ -4149,8 +4142,7 @@
           "firstname": "Anna-Elisabeth von",
           "lastname": "Treuenfels-Frowein",
           "faction": {
-            "label": "CDU",
-            "wid": "Q49762"
+            "label": "CDU"
           }
         }
       ],
@@ -4336,8 +4328,7 @@
           "firstname": "Sabine",
           "lastname": "Ritter",
           "faction": {
-            "label": "Die Linke",
-            "wid": "Q49764"
+            "label": "Die Linke"
           }
         }
       ],
